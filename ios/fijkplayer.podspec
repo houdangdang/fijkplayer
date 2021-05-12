@@ -28,7 +28,7 @@ Flutter plugin for ijkplayer
 
   # s.use_frameworks!
 
-  s.dependency 'HBIJKPlayer', '0.0.1'
+  s.dependency 'HBijkplayer', '0.0.1'
 
   s.ios.deployment_target = '8.0'
 end
